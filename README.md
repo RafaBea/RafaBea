@@ -44,7 +44,7 @@
 
   ### Conecte-se comigo
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelabeag/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelabeag@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelabeag/)
+  [![Gmail](https://img.shields.io/badge/Gmail-rafaelabeag%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelabeag@gmail.com)
 
 </div>
